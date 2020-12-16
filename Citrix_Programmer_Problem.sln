@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citrix_Programmer_Problem", "Citrix_Programmer_Problem\Citrix_Programmer_Problem.csproj", "{7FBBF44A-6157-4001-AF1A-55CDEFB912D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBBF44A-6157-4001-AF1A-55CDEFB912D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBBF44A-6157-4001-AF1A-55CDEFB912D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBBF44A-6157-4001-AF1A-55CDEFB912D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBBF44A-6157-4001-AF1A-55CDEFB912D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C0329E-1829-492A-92ED-E2D80BB5C75F}
+	EndGlobalSection
+EndGlobal
